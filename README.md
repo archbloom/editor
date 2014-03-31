@@ -1,6 +1,6 @@
 editor
 ======
 This is my first project.
-I will upload the code of eidtor soon.
+I will upload the code of editor soon.
 
 Thank you!
