@@ -1,6 +1,6 @@
 editor
 ======
-This is my first project.
-I will upload the code of editor soon.
-
+  This is My First project.
+  Built for me and by me.
+  Some functionalities are missing but trying to solve them. Your help will be welcomed.
 Thank you!
